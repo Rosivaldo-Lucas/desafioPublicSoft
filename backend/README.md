@@ -1,10 +1,10 @@
 ### :page_facing_up: BACKEND
 API para gerenciamento de endereços.
 
-### :page_facing_up: Como instalar e iniciar com **Docker**
-- `git clone https://github.com/jonabf1/artigo-docker-01`
-- **Vá para a pasta do repositório**
-- `docker-compose up` (instalar e iniciar todos os serviços)
+### :page_facing_up: Tecnologias utilizadas
+- Gerenciador de pacotes Yarn
+- NodeJS
+- Framework Express
 
 ### :page_facing_up: Rotas
 
