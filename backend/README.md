@@ -6,8 +6,11 @@ API para gerenciamento de endereços.
 - NodeJS
 - Framework Express
 
-### :page_facing_up: Rotas
+### :page_facing_up: Iniciar o servidor
+- yarn dev
 
+### :page_facing_up: Rotas
+- http://localhost:3333/
 - post('/enderecos’) - criar um endereço
 - get('/enderecos’) - listar endereços
 - get('/enderecos/:id’) - listar endereço pelo id
