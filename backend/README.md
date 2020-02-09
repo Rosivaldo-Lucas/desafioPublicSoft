@@ -1,5 +1,5 @@
-### :page_facing_up: Sobre
-API para gerenciamento de endereços
+### :page_facing_up: BACKEND
+API para gerenciamento de endereços.
 
 ### :page_facing_up: Como instalar e iniciar com **Docker**
 - `git clone https://github.com/jonabf1/artigo-docker-01`
